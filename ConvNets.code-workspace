@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Resnet",
+			"path": ".."
+		},
+		{
+			"name": "mnist",
+			"path": "C:/Users/91839/Downloads/mnist"
+		},
+		{
+			"name": "archive",
+			"path": "C:/Users/91839/Downloads/archive"
+		}
+	],
+	"settings": {}
+}
